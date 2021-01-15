@@ -1,2 +1,11 @@
+<<<<<<< HEAD
 node_modules
 .Ds_store
+=======
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/node_modules
+
+
+>>>>>>> ee83a0ea33f3de4b2593fdb5fc6bf314cf3acbf5
